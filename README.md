@@ -133,5 +133,5 @@ year_pattern = re.compile(r'[（(](?:AD)?(\d{4})(?:年)?[）)]')   # 匹配 (AD1
 
 ---
 
-**作者**：Your Name  
+**作者**：CaoFan
 **最后更新**：2026-04-01
